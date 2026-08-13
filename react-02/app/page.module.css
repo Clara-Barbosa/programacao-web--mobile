@@ -1,0 +1,29 @@
+.pagina {
+  background-color: #FFFFFF;
+  min-height: 100vh;
+  padding: 50px;
+  text-align: center;
+}
+
+.titulo {
+  color: #FF69B4;
+  font-size: 40px;
+  font-family:  "Trebuchet MS", serif;
+}
+
+.texto {
+  color: #444;
+  font-size: 18px;
+  font-family: Arial, sans-serif;
+}
+
+.botao {
+  background-color: #FFC0CB;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
